@@ -23,4 +23,4 @@ Cada decisión afecta variables como:
 - Gabriela Olivar
 
 ## Estado del proyecto
-En desarrollo – semestre académico 2026.
+En desarrollo –  2026.
